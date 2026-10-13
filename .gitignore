@@ -1,0 +1,31 @@
+# Data
+data/
+
+# Model weights / checkpoints
+*.pt
+*.pth
+checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints
+
+# Virtual envs
+venv/
+env/
+.env
+
+# IDEs / editors
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+
+# Logs, tensorboard
+logs/
+runs/
